@@ -7,7 +7,7 @@ A modern, responsive, and interactive personal portfolio website showcasing my f
 - **Name:** Jatin Yadav
 - **Education:** BCA @ Sant Singaji Institute of Science and Management (SSISM) (2024–2027)
 - **Location:** Sandalpur, Madhya Pradesh, India
-- **Focus:** MERN Stack, JavaScript, SQL & SAP ABAP
+- **Focus:** Java, Node.js, Express.js, MongoDB, React, SQL & SAP ABAP
 - **Email:** [jatiny.yadav8@gmail.com](mailto:jatiny.yadav8@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jatinyadav-y](https://www.linkedin.com/in/jatinyadav-y/)
 - **GitHub:** [github.com/jatin-yadav0](https://github.com/jatin-yadav0)
@@ -16,7 +16,7 @@ A modern, responsive, and interactive personal portfolio website showcasing my f
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** [View Portfolio](YOUR_LIVE_WEBSITE_URL)
+🔗 **Live Website:** [https://jatin-yadav0.github.io/portfolio/](https://jatin-yadav0.github.io/portfolio/)
 
 ---
 
